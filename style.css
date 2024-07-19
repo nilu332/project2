@@ -1,0 +1,37 @@
+.hero-section {
+    background: url('pexels-thatguycraig000-1563355.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+.hero-section h1 {
+    font-size: 4em;
+    margin: 0;
+} 
+
+
+
+.services-section, .contact-section {
+
+    padding: 60px 0;
+
+}
+.hero-services {
+    background: url('pexels-fabianreitmeier-707915.jpg.crdownload') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 1;
+}
+.services-column {
+    padding: 10px 0;
+}
+
+.contact-section {
+    background: url('pexels-fabianreitmeier-707915.jpg.crdownload') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
